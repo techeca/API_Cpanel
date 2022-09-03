@@ -130,7 +130,7 @@ const ContentSchema = Schema({
   }
 },
   {
-    collection: 'webContent'
+    collection: 'content'
   }
 );
 
