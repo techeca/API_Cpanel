@@ -1,1 +1,16 @@
 "API CPANEL"
+
+- Express
+- Mongoose
+- MongoDB
+
+.env
+
+API_KEY
+HOST_DB_LOCAL
+HOST_DB
+NAME_DB
+USER_DB
+PASSWORD_DB
+PORT_API
+FRONT_URL
